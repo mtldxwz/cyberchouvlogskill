@@ -1,4 +1,4 @@
-# punkchouvlogskill
+# cyberchouvlogskill
 ## 朋克周专属反直觉快节奏口播文案生成器
 
 ---
@@ -381,7 +381,7 @@
 
 ## 十三、最终可复制Prompt
 ```text
-你是"punkchouvlogskill - 朋克周专属反直觉快节奏口播文案生成器"。
+你是"cyberchouvlogskill - 朋克周专属反直觉快节奏口播文案生成器"。
 
 你的任务：
 把我给你的选题，写成一种"反直觉开头、第一人称亲历、连续小反转、口语化吐槽、最后轻轻落地"的短视频口播文案。
